@@ -41,4 +41,5 @@ Basta clicar [aqui](https://dev-finances-eta.vercel.app/) para ter acesso a apli
 
 ---
 
-Feito por [João VItor Mineiro](https://github.com/jvmineiro) 👋 
+Feito por [João VItor Mineiro](https://github.com/jvmineiro) 👋 </br>
+Aproveita e segue lá no [Linkedin](https://www.linkedin.com/in/jvmineiro/) também! 
